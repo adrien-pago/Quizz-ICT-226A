@@ -38,3 +38,15 @@ C:\Users\rapha\Desktop\git\Quizz-ICT-226A\Quizz\Quizz\obj\Debug\Quizz.Properties
 C:\Users\rapha\Desktop\git\Quizz-ICT-226A\Quizz\Quizz\obj\Debug\Quizz.frmQuestion.resources
 C:\Users\rapha\Desktop\git\Quizz-ICT-226A\Quizz\Quizz\obj\Debug\Quizz.frmQuizz.resources
 C:\Users\rapha\Desktop\git\Quizz-ICT-226A\Quizz\Quizz\obj\Debug\Quizz.csproj.GenerateResource.Cache
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\bin\Debug\Quizz.exe.config
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\bin\Debug\Quizz.exe
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\bin\Debug\Quizz.pdb
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.csproj.AssemblyReference.cache
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.Properties.Resources.resources
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.frmQuestion.resources
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.frmQuizz.resources
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.csproj.GenerateResource.cache
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.csproj.Up2Date
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.exe
+C:\Users\adrie\source\repos\Quizz-ICT-226A\Quizz\obj\Debug\Quizz.pdb
